@@ -63,7 +63,7 @@ body{
 #main{
     transition: margin-left .5s;
     background:white;
-    height:100vh;
+    height:90vh;
 
 }
 @media(max-width:568px){
