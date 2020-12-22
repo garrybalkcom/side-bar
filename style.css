@@ -68,5 +68,6 @@ body{
     @media(min-width:568px){
         .open-slide a {
             display:none;
+            overflow-x:hidden;
         }
 }
